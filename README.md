@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Rifat Shariar Sakil</h1>
 <h3 align="center">gg :V </h3>
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/9biE.gif")
+(img align="right" alt="Coding" width="400" src="![image](https://github.com/Rifat-Shariar-Sakil-24/Rifat-Shariar-Sakil-24/assets/73025847/61bd30f1-f62a-4fb3-b4b8-38d87d47b68d)
+")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-shariar-sakil-24&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-shariar-sakil-24" /> </p>
 
