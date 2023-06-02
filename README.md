@@ -1,11 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Rifat Shariar Sakil</h1>
-<h3 align="center">gg :V </h3>
-
+<h3 align="center">gg :V</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-shariar-sakil-24&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-shariar-sakil-24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat-shariar-sakil-24" alt="rifat-shariar-sakil-24" /></a> </p>
+- 📫 How to reach me **shariarsakil101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
