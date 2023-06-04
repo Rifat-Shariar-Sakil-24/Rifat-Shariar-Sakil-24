@@ -8,7 +8,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-shariar-sakil-24&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-shariar-sakil-24" /> </p>
 
 
 
@@ -19,3 +18,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat-shariar-sakil-24&show_icons=true&locale=en&layout=compact" alt="rifat-shariar-sakil-24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-shariar-sakil-24&" alt="rifat-shariar-sakil-24" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-shariar-sakil-24&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-shariar-sakil-24" /> </p>
