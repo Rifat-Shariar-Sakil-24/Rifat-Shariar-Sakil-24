@@ -1,4 +1,7 @@
-# HI, Shariar here!>
+# Hi, Shariar here!
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-000000?color=0b0b0b&labelColor=333333&logo=gmail&logoColor=f5f7fe)](mailto:shariarsakil101@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+
 
 <h3 align="center">gg :V</h3>
 
