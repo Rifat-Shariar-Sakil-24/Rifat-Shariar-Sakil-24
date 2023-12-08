@@ -1,5 +1,4 @@
-<p align='center'> <img src= "https://github.com/Rifat-Shariar-Sakil-24/Rifat-Shariar-Sakil-24/blob/main/1685866974402(2).jpg"> </p>
-<h1 align="center">mentally not here</h1>
+
 <pre>
 
 </pre>
