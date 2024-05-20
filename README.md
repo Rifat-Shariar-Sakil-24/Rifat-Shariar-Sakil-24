@@ -52,7 +52,7 @@
 
 <h3>Languages</h3>
 <ul>
-  <li>C</li>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <li>C++</li>
   <li>Java</li>
   <li>HTML & CSS</li>
