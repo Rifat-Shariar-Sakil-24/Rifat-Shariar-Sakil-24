@@ -49,8 +49,9 @@
 
 <h3>Others</h3>
 <ul>
-  <li>Git & GitHub</li>
+  <li>Vercel</li>
   <li>Postman</li>
+  <li>Docker</li>
 </ul>
 
 
