@@ -42,6 +42,7 @@
 <h4>Frameworks</h4>
 <ul>
   <li>Express.JS</li>
+  <li>Flutter</li>
 </ul>
 
 <h4>Templating Engine</h4>
