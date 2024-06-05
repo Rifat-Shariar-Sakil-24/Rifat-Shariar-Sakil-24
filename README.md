@@ -62,9 +62,6 @@
 </ul>
 
 
-[problem solving](https://www.stopstalk.com/user/profile/hello_shariar) : stopstalk
-
-
 <pre>
 
 </pre>
