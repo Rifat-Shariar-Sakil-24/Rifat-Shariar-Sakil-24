@@ -27,33 +27,36 @@
 
 </pre>
 
-<h3>Languages</h3>
+
+<h3>Skills: </h3>
+<h2>Languages</h2>
 <ul>
   <li>C</li>
   <li>C++</li>
   <li>Java</li>
+  <li>Dart</li>
   <li>HTML & CSS</li>
   <li>JavaScript</li>
 </ul>
 
-<h3>Frameworks</h3>
+<h2>Frameworks</h2>
 <ul>
   <li>Express.JS</li>
 </ul>
 
-<h3>Templating Engine</h3>
+<h2>Templating Engine</h2>
 <ul>
   <li>Handlebars</li>
   <li>EJS</li>
 </ul>
 
-<h3>Databases</h3>
+<h2>Databases</h2>
 <ul>
   <li>MySQL</li>
   <li>MongoDB</li>
 </ul>
 
-<h3>Others</h3>
+<h2>Others</h2>
 <ul>
   <li>Vercel</li>
   <li>Postman</li>
