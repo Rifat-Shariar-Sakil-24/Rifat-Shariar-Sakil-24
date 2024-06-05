@@ -62,9 +62,8 @@
 </ul>
 
 
-```json
-"problem solving" : [stopstalk](https://www.stopstalk.com/user/profile/hello_shariar)
-```
+[problem solving](https://www.stopstalk.com/user/profile/hello_shariar) : stopstalk
+
 
 <pre>
 
