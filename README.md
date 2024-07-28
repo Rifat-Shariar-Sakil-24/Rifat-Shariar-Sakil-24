@@ -34,18 +34,22 @@ Skills = {
     "HTML & CSS",
     "JavaScript"
   ],
+
   Frameworks: [
     "Express.JS",
     "Flutter"
   ],
+
   TemplatingEngine: [
     "Handlebars",
     "EJS"
   ],
+
   Databases: [
     "MySQL",
     "MongoDB"
   ],
+
   Others: [
     "Vercel",
     "Postman",
