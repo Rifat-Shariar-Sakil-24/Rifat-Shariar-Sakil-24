@@ -24,42 +24,34 @@
 
 </pre>
 
-
-<h3>Skills: </h3>
-<h4>Languages</h4>
-<ul>
-  <li>C</li>
-  <li>C++</li>
-  <li>Java</li>
-  <li>Dart</li>
-  <li>HTML & CSS</li>
-  <li>JavaScript</li>
-</ul>
-
-<h4>Frameworks</h4>
-<ul>
-  <li>Express.JS</li>
-  <li>Flutter</li>
-</ul>
-
-<h4>Templating Engine</h4>
-<ul>
-  <li>Handlebars</li>
-  <li>EJS</li>
-</ul>
-
-<h4>Databases</h4>
-<ul>
-  <li>MySQL</li>
-  <li>MongoDB</li>
-</ul>
-
-<h4>Others</h4>
-<ul>
-  <li>Vercel</li>
-  <li>Postman</li>
-  <li>Docker</li>
-</ul>
+```javascript
+const Skills = {
+  Languages: [
+    "C",
+    "C++",
+    "Java",
+    "Dart",
+    "HTML & CSS",
+    "JavaScript"
+  ],
+  Frameworks: [
+    "Express.JS",
+    "Flutter"
+  ],
+  TemplatingEngine: [
+    "Handlebars",
+    "EJS"
+  ],
+  Databases: [
+    "MySQL",
+    "MongoDB"
+  ],
+  Others: [
+    "Vercel",
+    "Postman",
+    "Docker"
+  ]
+};
 
 
 <pre>
