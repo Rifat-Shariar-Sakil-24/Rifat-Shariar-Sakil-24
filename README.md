@@ -25,7 +25,7 @@
 </pre>
 
 ```javascript
-const Skills = {
+Skills = {
   Languages: [
     "C",
     "C++",
@@ -52,7 +52,7 @@ const Skills = {
     "Docker"
   ]
 };
-
+```
 
 <pre>
 
