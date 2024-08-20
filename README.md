@@ -41,11 +41,6 @@ Skills = {
     "Spring Boot"
   ],
 
-  VersionControl: [
-    "Git",
-    "Github"
-  ],
-
   TemplatingEngine: [
     "Handlebars",
     "EJS"
@@ -54,6 +49,11 @@ Skills = {
   Databases: [
     "MySQL",
     "MongoDB"
+  ],
+
+VersionControl: [
+    "Git",
+    "GitHub"
   ],
 
   Others: [
