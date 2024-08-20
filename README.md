@@ -51,7 +51,7 @@ Skills = {
     "MongoDB"
   ],
 
-VersionControl: [
+  VersionControl: [
     "Git",
     "GitHub"
   ],
