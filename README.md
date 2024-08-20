@@ -37,7 +37,13 @@ Skills = {
 
   Frameworks: [
     "Express.JS",
-    "Flutter"
+    "Flutter",
+    "Spring Boot"
+  ],
+
+  VersionControl: [
+    "Git",
+    "Github"
   ],
 
   TemplatingEngine: [
